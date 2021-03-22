@@ -2,7 +2,7 @@
 
 _Learning a lot more about CSS and HTML5_
 
-### To See... 🚀
+### Run flask sever 🚀
 
 ```
 $ pip3 install flask && python3 server.py
